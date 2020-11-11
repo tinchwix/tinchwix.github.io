@@ -316,6 +316,28 @@ nav a:focus {
 		left: 7.5rem;
 		transform: translateX(0);
 	}
+	
+	.home-about1 {
+		background-image: url(../img/who-we-are.jpg);
+		background-repeat: no-repeat;
+		padding-bottom: 20em;
+	}
+
+	.home-about1-textbox {
+		width: 50%;
+		padding: 7em;
+		outline-offset: -3.75em;
+		margin-left: -2.5%;
+		top: -5em;
+		text-align: left;
+		box-shadow: 0 0 4em 0 rgba(0,0,0,.3);
+	}
+
+	.home-about1-textbox h1 {
+		top: .75em;
+		left: 7.5rem;
+		transform: translateX(0);
+	}
 
 
 }
@@ -391,6 +413,6 @@ nav a:focus {
 footer {
 	background: #232323;
 	color: #fff;
-	text-align: left;
-	padding: 5em 0;
+	text-align: center;
+	padding: 3em 0;
 }
